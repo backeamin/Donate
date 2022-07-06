@@ -103,6 +103,7 @@ body{
     background-color: #FF5959;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
 }
 #special_div{
     padding-top: 0;
