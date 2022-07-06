@@ -162,6 +162,8 @@ footer p{
     outline: none;
     border: none;
     background-color: #e1dada;
+    border-radius: 4px;
+
 }
 .section_five .email_form button{
     width: 25%;
@@ -173,6 +175,7 @@ footer p{
     background-color: #FF5757;
     color: white;
     cursor: pointer;
+    border-radius: 5px;
 }
 .section_four{
     display: flex;
