@@ -1,0 +1,217 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.first_div{
+    padding-top: 150px;
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+}
+.head_main{
+    font-size: 45px;
+    color: white;
+    font-weight: 700;
+}
+.p_one{
+    font-size: 17px;
+    color: white;
+    font-weight: 700;
+}
+.donate_button{
+    text-align: center;
+    margin-top: 30px;
+}
+.b_one{
+    padding: 10px 20px;
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 200px;
+    cursor: pointer;
+}
+.section_one{
+    width: 100%;
+    height: auto;
+    background-image: url(images/donation100.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.secound_div{
+    padding-top: 85px;
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+}
+.head_tow{
+    font-size: 45px;
+}
+.p_tow{
+    font-size: 19px;
+    color: #747474;
+}
+.section_tow, .section_three{
+    display: flex;
+    padding-top: 10px;
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
+}
+.section_tow div{
+    padding-top: 15px;
+    background-color: #f7f5f5;
+    color: #707070;
+    margin-bottom: 50px;
+    width: 250px;
+    height: 100px;
+    margin-left: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+#special{
+    color: #FF5757;
+    border: 2px solid #FF5757;
+    box-sizing: border-box;
+    height: 120px;  
+}
+.input_one{
+    text-align: center;
+    width: 800px;
+    margin: 0 auto 100px;
+}
+.input_one input{
+    width: 100%;
+    text-align: center;
+    height: 30px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #aba6a6;
+    font-size: 15px;
+}
+::-webkit-input-placeholder{
+    color: #a09e9e;
+}
+.b_tow{
+    margin-top: 25px;
+    width: 125px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+    background-color: #FF5959;
+    border: none;
+    border-radius: 5px;
+}
+#special_div{
+    padding-top: 0;
+    margin-top: 0;
+}
+.section_three{
+    width: 60%;
+}
+.section_three div{
+    margin: 50px 20px;
+    padding: 40px 20px;
+    text-align: left;
+    width: 330px;
+    height: 250px;
+}
+.d_one{
+    background-color: #FFF4D6;
+}
+.d_tow{
+    background-color: #FFEEEE;
+}
+.d_three{
+    background-color: #EDF5F6;
+}
+footer{
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    margin-top: 100px;
+}
+footer h2{
+    color: #FF5D5C;
+    padding-top: 70px;
+    font-size: 30px;
+}
+footer p{
+    color: white;
+}
+.section_five{
+    display: flex;
+    padding-top: 10px;
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+}
+.section_five .email_form{
+    height: 150px;
+    width: 100%;
+    background-color: #FFF4D6;
+    margin: 0 auto;
+}
+.section_five .email_form input{
+    margin: 55px auto;
+    width: 60%;
+    padding: 10px;
+    outline: none;
+    border: none;
+    background-color: #e1dada;
+}
+.section_five .email_form button{
+    width: 25%;
+    height: 24%;
+    outline: none;
+    border: none;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: #FF5757;
+    color: white;
+    cursor: pointer;
+}
+.section_four{
+    display: flex;
+}
+.section_four .image img{
+    height: 450px;
+    width: 500px;
+    margin: 50px;
+    margin-top: 100px;
+    margin-left: 350px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 1px 0 10px rgba(223, 201, 201, 0.452);
+    box-sizing: border-box;
+}
+.section_four .text{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.section_four .text h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.section_four .text p{
+    font-size: 20px;
+    padding-right: 250px;
+}
+.section_four .text button{
+    width: 170px;
+    height: 33px;
+    background-color: #FF5959;
+    color: whitesmoke;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 1px 1px 0 1px rgba(205, 201, 201, 0.493);
+}
