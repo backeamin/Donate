@@ -177,6 +177,7 @@ footer p{
     color: white;
     cursor: pointer;
     border-radius: 5px;
+    margin-left: -10px;
 }
 .section_four{
     display: flex;
